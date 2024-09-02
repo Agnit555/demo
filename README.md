@@ -1,3 +1,4 @@
 # demo
-This is my first repository
-author - Agnit Pradhan
+This is my first repository.
+<br>
+Author - Agnit Pradhan
